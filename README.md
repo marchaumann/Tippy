@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/marchaumann/Tippy/master/tippy_first_pass.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Quicktime and Photoshop.
 
