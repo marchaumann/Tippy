@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Custom app icon
 
 ## Video Walkthrough 
 
@@ -26,11 +26,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Quicktime and Photoshop.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
