@@ -17,7 +17,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$0.00" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Zy9-br-9Rt">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Zy9-br-9Rt">
                                         <rect key="frame" x="134" y="299" width="211" height="48"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" weight="light" pointSize="40"/>
@@ -44,7 +44,7 @@
                                             <action selector="onEditingChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="0E2-MK-fxE"/>
                                         </connections>
                                     </segmentedControl>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$0.00" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="6O8-gT-oDn">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="6O8-gT-oDn">
                                         <rect key="frame" x="156" y="270" width="189" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -68,6 +68,10 @@
                                             <action selector="onEditingChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="qXr-zl-iI7"/>
                                         </connections>
                                     </textField>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="t_circle" id="UZJ-CU-NJ7">
+                                        <rect key="frame" x="162" y="50" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" white="0.18791946308724833" alpha="1" colorSpace="calibratedWhite"/>
                                 <gestureRecognizers/>
@@ -96,5 +100,8 @@
             <point key="canvasLocation" x="233.5" y="405.5"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="t_circle" width="103" height="103"/>
+    </resources>
     <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
 </document>
