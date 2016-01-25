@@ -18,7 +18,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Custom app icon
+- [X] Custom app icon & launch image
+- [X] Dark keyboard color
 
 ## Video Walkthrough 
 
